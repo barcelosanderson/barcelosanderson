@@ -9,7 +9,7 @@ I have a degree in Mathematics and I’m currently pursuing a Technologist degre
 
 I found in programming a way to combine my passion for logic and technology — creating projects that reflect my way of thinking and prepare me for challenges in major companies.
 
-## 📚 Education
+## 📚 Study
 - Bachelor’s Degree in Mathematics – UNESP;
 - Technologist in Systems Analysis and Development – FATEC (in progress).
 
